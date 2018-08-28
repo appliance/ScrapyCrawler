@@ -1,4 +1,4 @@
-# ScrapyCrawler
+# ScrapyCrawler (简单的静态网页数据爬取)
 python爬虫框架scrapy练习
 自动爬虫编写总结
 单页面爬取思路:
