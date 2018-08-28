@@ -35,3 +35,5 @@ scrapy genspider -t basic autospd dangdang.com
     )
 
 7、需要对爬行网页的url进行观察，发现其中的规律
+
+8、scrapy crawl 爬虫名 执行
